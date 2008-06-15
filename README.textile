@@ -1,0 +1,13 @@
+* Description
+A simple script to build the latest svn version of Dave Friedmans' gdc using the apple GCC 4.0.1 compiler under OS X Leopard
+
+* Prerequisites
+You'll need wget, I suggest using the darwin ports version, sudo port install wget
+
+* Usage
+make all
+
+* Resources
+D Programming Language, http://d-programming-language.org/
+GDC compiler front end for GCC, http://dgcc.sourceforge.net/
+Apple packages for release versions of GDC, http://gdcmac.sourceforge.net/
