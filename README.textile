@@ -12,6 +12,6 @@ h2. Usage
 
 h2. Resources
 
-D Programming Language, http://d-programming-language.org/
-GDC compiler front end for GCC, http://dgcc.sourceforge.net/
-Apple packages for release versions of GDC, http://gdcmac.sourceforge.net/
+* D Programming Language, http://d-programming-language.org/
+* GDC compiler front end for GCC, http://dgcc.sourceforge.net/
+* Apple packages for release versions of GDC, http://gdcmac.sourceforge.net/
